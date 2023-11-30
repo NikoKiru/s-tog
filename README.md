@@ -4,4 +4,6 @@ Satrt with:
 1) StogStatoins
 2) StogLines
 3) StogTracks
-4) Stog
+4) StogRoutines
+
+Then open the JS file and run
